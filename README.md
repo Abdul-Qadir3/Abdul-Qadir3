@@ -59,6 +59,6 @@ I am a Data Scientist from Pakistan.
 </p>
 
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=khwajaavais&show_icons=true&theme=radical">
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=Abdul-Qadir3&show_icons=true&theme=radical">
 </p>
 </div>
