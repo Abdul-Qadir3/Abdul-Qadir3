@@ -30,7 +30,7 @@ I am a Data Scientist from Pakistan.
 - :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/abdul-qadir-a3138723b/)
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
