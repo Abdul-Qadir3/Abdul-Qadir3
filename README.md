@@ -19,7 +19,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ### :woman_technologist: About Me :
+
 I am a Data Scientist from Pakistan.
 - :telescope: I’m a student of Masters in Data Science and GenAI cloud Native engineering from PIAIC.
 
@@ -42,6 +44,8 @@ I am a Data Scientist from Pakistan.
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+\n
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdul-Qadir3&theme=dark&background=000000)](https://git.io/streak-stats)
