@@ -22,14 +22,14 @@
 
 ### :woman_technologist: About Me :
 
-I am a Data Scientist from Pakistan.
+I am a Data Scientist and Analyst from Pakistan.
 - :telescope: I’m a student of Masters in Data Science and GenAI cloud Native engineering from PIAIC.
 
 - :seedling: Exploring advance technologies in Artificail Intelligence.
 
 - :zap: In my free time, I solve problems on machine learning and python.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/abdul-qadir-a3138723b/)
+- :mailbox:How to reach me: [![Linkedin Badge](href="https://www.linkedin.com/in/abdul-qadir-a3138723b/")
 
 ### :hammer_and_wrench: Languages and Tools :
 <br>
