@@ -51,7 +51,7 @@ I am a Data Scientist from Pakistan.
 <div>
   
 <p align="center">
- <img src="https://img.shields.io/badge/Data Analytics-maroon"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Robotic Process Automation-grey">
+ <img src="https://img.shields.io/badge/Data Analytics-maroon"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow">
 </p>
 <hr>
 <p align="center">
