@@ -20,6 +20,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ### :woman_technologist: About Me :
+<br>
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 - :telescope: I’m a student of Masters in Data Science and GenAI cloud Native engineering from PIAIC.
 
