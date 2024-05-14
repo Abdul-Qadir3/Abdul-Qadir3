@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<hr>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/abdul-qadir-a3138723b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,7 +20,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
+<hr>
 ### :woman_technologist: About Me :
 
 I am a Data Scientist and Analyst from Pakistan.
@@ -31,6 +32,7 @@ I am a Data Scientist and Analyst from Pakistan.
 
 - :mailbox:How to reach me: [![Linkedin Badge](href="https://www.linkedin.com/in/abdul-qadir-a3138723b/")
 
+<hr>
 ### :hammer_and_wrench: Languages and Tools :
 <br>
 <div align="center">
@@ -46,8 +48,8 @@ I am a Data Scientist and Analyst from Pakistan.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
 
+<hr>
 <div>
   
 <p align="center">
@@ -58,7 +60,5 @@ I am a Data Scientist and Analyst from Pakistan.
 <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=Abdul-Qadir3&show_icons=true&theme=radical">
-</p>
 </div>
+<hr>
