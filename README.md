@@ -45,13 +45,12 @@ I am a Data Scientist from Pakistan.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### :hammer_and_wrench: My Stats:
 
-<div align="center">
+<div>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdul-Qadir3&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Qadir3)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Qadir3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
