@@ -30,6 +30,7 @@ I am a Data Scientist from Pakistan.
 - :zap: In my free time, I solve problems on machine learning and python.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/abdul-qadir-a3138723b/)
+
 ### :hammer_and_wrench: Languages and Tools :
 <br>
 <div align="center">
