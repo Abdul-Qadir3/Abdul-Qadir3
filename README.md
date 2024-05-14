@@ -51,4 +51,5 @@ I am a Data Scientist from Pakistan.
 <div>
   
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Abdul-Qadir3&theme=dark" alt="GitHub Streak" /></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdul-Qadir3&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </div>
