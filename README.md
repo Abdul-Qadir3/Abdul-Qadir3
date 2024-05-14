@@ -52,6 +52,6 @@ I am a Data Scientist from Pakistan.
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdul-Qadir3&theme=dark&background=000000)](https://github.com/Abdul-Qadir3)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Qadir3)](https://github.com/Abdul-Qadir3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Qadir3)](https://github.com/Abdul-Qadir3/)
 
 </div>
