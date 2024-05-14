@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/abdul-qadir-a3138723b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://x.com/aqadirsamdani?t=B6zjADnFVYXiyCiLlfk75A&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -31,7 +31,7 @@ I am a Data Scientist from Pakistan.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/abdul-qadir-a3138723b/)
 ### :hammer_and_wrench: Languages and Tools :
-
+<br>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
